@@ -38,9 +38,21 @@ git clone https://github.com/yourusername/java-swing-chat-client.git
 cd java-swing-chat-client
 javac Client.java
 java Client
-### PROJECT STRUCTURE
+**### PROJECT STRUCTURE**
 .
 ├── Client.java              # Main client application
 ├── assets/
 │   └── cc.png               # Logo/icon used in the GUI (replaceable)
 └── README.md
+
+
+###📌 TODO / Future Enhancements
+ Add username or user ID to messages
+
+ Encrypt communication for better security
+
+ Store chat history locally
+
+ Add file transfer support
+
+ Theme customization (dark/light mode)
