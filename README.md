@@ -3,8 +3,6 @@
 
 A simple yet functional **Client Chat Application** built using **Java Swing** and **Sockets** for real-time communication with a server.
 
-![Java Chat GUI Screenshot](assets/client-screenshot.png) <!-- Replace with actual screenshot path -->
-
 ---
 
 ## 🚀 Features
